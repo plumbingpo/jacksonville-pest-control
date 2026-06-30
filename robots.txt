@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jacksonvillepestcontrolco.com/sitemap.xml
